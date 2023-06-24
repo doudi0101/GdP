@@ -1,0 +1,4 @@
+# Workshop Jira
+
+## Qu'est ce que Atlassian Jira ?
+Atlassian Jira est un outil de gestion de projet largement utilisé, y compris pour les projets de Big Data. Il offre des fonctionnalités telles que la création de tâches, le suivi du temps, la gestion des tickets et la génération de rapports. Jira permet aux équipes de collaborer efficacement et de gérer les aspects spécifiques des projets de Big Data tels que la collecte, le traitement et l'analyse des données massives. Son utilisation dans un cours de gestion de projet Big Data permet aux étudiants de se familiariser avec un outil pratique utilisé dans l'industrie pour gérer des projets complexes.
