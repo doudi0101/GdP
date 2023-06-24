@@ -2,6 +2,7 @@
 
 Dans Jira Software, nous appelons les éléments de travail tels que les User stories, les tâches et les erreurs " issues " (problèmes). Créez quelques user stories à l'aide de l'option de création rapide dans le backlog. Si vous n'avez pas d'histoires d'utilisateurs en tête, créez simplement des histoires types pour commencer et voir comment le processus fonctionne.
 
+<img width="448" alt="image5" src="https://github.com/doudi0101/GdP/assets/73080397/54f65c54-3ccc-4ca4-9885-7e070fbf3695">
 
 
 Une fois que vous avez créé quelques user stories, vous pouvez commencer à les classer par ordre de priorité dans le backlog. Dans Jira Software, vous classez ou priorisez vos stories en les faisant glisser et en les déposant dans l'ordre dans lequel elles doivent être travaillées.
