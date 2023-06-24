@@ -13,7 +13,6 @@ OnlineGantt est un outil en ligne de gestion de projets utilisé pour créer et 
 
 
 
-
 ## Les limites d'un diagramme de Gantt
 1. Complexité des projets : Pour les projets complexes, avec de nombreuses tâches et dépendances, le diagramme de Gantt peut devenir rapidement complexe et difficile à gérer.
 2. Difficulté de modification : Si des changements surviennent dans le projet, il peut être laborieux de mettre à jour manuellement le diagramme de Gantt, surtout si des dépendances doivent être réorganisées.
