@@ -1,4 +1,4 @@
-# Etape1 : Créer un projet Scrum 
+# Étape1 : Créer un projet Scrum 
 
 Une fois que vous [créez](https://www.atlassian.com/software/jira/free) et vous vous connectez à un compte dans Jira Software, vous pouvez sélectionner un modèle dans la bibliothèque. Sélectionnez Scrum ( vous pouvez prévisualiser le [modèle de Scrum gratuit](https://www.atlassian.com/software/jira/templates/scrum) ici).
 
