@@ -1,4 +1,4 @@
-# Etape 3 : Créer un sprint
+# Étape 3 : Créer un sprint
 
 Créez votre premier sprint dans le backlog afin de pouvoir commencer à planifier le sprint.
 
