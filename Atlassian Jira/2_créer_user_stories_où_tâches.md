@@ -1,4 +1,4 @@
-# Etape 2 : Créer des user stories ou des tâches dans le backlog
+# Étape 2 : Créer des user stories ou des tâches dans le backlog
 
 Dans Jira Software, nous appelons les éléments de travail tels que les User stories, les tâches et les erreurs " issues " (problèmes). Créez quelques user stories à l'aide de l'option de création rapide dans le backlog. Si vous n'avez pas d'histoires d'utilisateurs en tête, créez simplement des histoires types pour commencer et voir comment le processus fonctionne.
 
