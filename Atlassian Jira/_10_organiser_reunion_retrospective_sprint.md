@@ -13,5 +13,6 @@ Une fois le sprint terminé, demandez à votre équipe de faire une rétrospecti
 > Questions à poser :  
 > * Qu'avons-nous fait de bien pendant le sprint ?  
 > * Qu'aurions-nous pu faire mieux ?  
-> * Qu'allons-nous faire mieux la prochaine fois ?  
+> * Qu'allons-nous faire mieux la prochaine fois ?
+>   
 > **ProTip** : Même si les choses se passent bien dans l'équipe, n'arrêtez pas de faire des rétrospectives. Les rétrospectives fournissent des conseils continus à l'équipe pour que les choses continuent à bien se passer.
