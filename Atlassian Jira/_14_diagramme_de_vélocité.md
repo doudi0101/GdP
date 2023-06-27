@@ -1,0 +1,4 @@
+# Étape 14 : Utiliser le diagramme de vélocité (scrum avancé)
+Avec le graphique de vélocité, vous pouvez voir un résumé du travail que votre équipe fournit dans chaque sprint. Vous pouvez utiliser ces informations pour prédire la quantité de travail que votre équipe peut raisonnablement accomplir au cours des prochains sprints. Lors des réunions de planification de sprint, par exemple, votre équipe peut passer en revue les visuels de ce qui s'est passé au cours des sprints précédents - l'engagement de l'équipe par rapport à la réalisation effective - et ensuite proposer des engagements plus réalistes.
+
+Consultez le [Velocity Chart](https://confluence.atlassian.com/jirasoftwarecloud/velocity-chart-777002731.html?_ga=2.149276982.108815881.1513015772-1642974239.1501531807) pour plus de détails sur son utilisation.
